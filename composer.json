@@ -6,7 +6,7 @@
     "illuminate/database": "^6.0|^7.0|^8.0|^9.0",
     "geo-io/wkb-parser": "^1.0",
     "jmikola/geojson": "^1.0",
-    "gbuckingham89/database": "master#49c9a416fdd1b0939e93d2118b5789227368d984"
+    "gbuckingham89/database": "master"
   },
   "require-dev": {
     "illuminate/pagination": "^6.0|^7.0|^8.0|^9.0",
